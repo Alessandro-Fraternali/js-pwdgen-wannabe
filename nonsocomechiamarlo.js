@@ -11,6 +11,7 @@ var colore;
 colore = prompt("Di che colore era il cavallo bianco di Napoleone?");
 
 // stampadati e 19
+var password;
 password = nome + cognome + colore + 19;
 
 document.getElementById("javapower").innerHTML = password;
